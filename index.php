@@ -5,5 +5,6 @@
 	<link href="./img/icon.png" rel="shortcut icon">
 </head>
 <body>
+	Hello
 </body>
 </html>
