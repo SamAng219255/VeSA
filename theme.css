@@ -1,3 +1,23 @@
 body {
-	background-image: url("./img/Veil_Nebula.jpg");
+	margin: 0px;
+	padding: v0px;
 }
+#background {
+	position: absolute;
+	width: 100%;
+	top:0px;
+	left:0px;
+	z-index:-1;
+}
+.txtblock {
+	width: 100%;
+	margin: 0 0 450px;
+	padding: 1px 0px;
+	background-color: #FFFFFF;
+}
+.txtblock h1 {
+	margin: 10px;
+}
+.txtblock p {
+	margin: 20px;
+} 
