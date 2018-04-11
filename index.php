@@ -12,9 +12,10 @@
 			<h1>The Venusian<br>Space Agency</h1>
 		</div>
 		<div class="txtblock">
-			<h3>Some Title Here.</h3>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-			<img src="./img/VeSA.png">
+			<h3>About Us</h3>
+			<p>Hi! we're a private space agency based out of orbit around Venus. We give rides to scientists and tourists into extra-solar space, though our goal is to establish a permanent connection between Our solar system and the next one over.</p>
+			<p>Along this line we are researching negative matter stabilized worm holes and controlled mass quantum tunneling technologies which will allow us to create a sort of bridge between any two points in space and travel there quickly without requiring FTL (Faster Than Light) engines.</p>
+			<p>Sorry for the science jargon... this is a complex procedure. Basically we are punching holes in space which create and connect to other holes in space. While the connection between these holes is much shorter than the normal travel distance, our bodies don't really like fitting around the edges of the holes and you'd need to lose quite a bit of weight to fit through given the holes are smaller than anyone can see. That's where the tunneling comes into play. You see quantum tunneling is a strange phenomenon, the best analogy would be if you got locked up in solitary confinement and then suddenly found yourself outside the prison. We plan to use this strange trick to sort of teleport through the wormhole avoiding all the messiness involved in actually going through one.</p>
 		</div>
 		<div class="txtblock"><h3>Some Title Here.</h3></div>
 		<div class="txtblock"><h3>Some Title Here.</h3></div>
