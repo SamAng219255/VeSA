@@ -1,23 +1,72 @@
 body {
 	margin: 0px;
-	padding: v0px;
+	padding: 0px;
+	background-color: #382334;
+	color: #4C8482;
+	position: relative;
+}
+#parallax {
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: auto;
+    -webkit-perspective: 1px;
+    perspective: 1px;
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
 }
 #background {
-	position: absolute;
 	width: 100%;
-	top:0px;
-	left:0px;
-	z-index:-1;
+	height: 300%;
+	z-index: -1;
+	background-image: url("./img/Veil_Nebula.jpg");
+	background-size: 100% auto;
+    -webkit-transform: translateZ(-1px);
+    transform: translateZ(-1px);
+    position: absolute;
+    top: 120%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    transform: translateZ(-1px) scale(2);
 }
 .txtblock {
 	width: 100%;
-	margin: 0 0 450px;
+	margin: 450px 0 0;
 	padding: 1px 0px;
-	background-color: #FFFFFF;
+	background-color: #382334;
+	min-height: 100%;
+	max-height: 100%;
 }
-.txtblock h1 {
+#topbar h1 {
 	margin: 10px;
+	display: inline-block;
+	vertical-align: top;
+	font-size: 3em;
+}
+.txtblock h3 {
+	margin: 20px;
+	font-size: 2em;
 }
 .txtblock p {
 	margin: 20px;
-} 
+	font-size: 1.5em;
+}
+#titlelogo {
+	height: 8em;
+	display: inline-block;
+}
+#topbar {
+	min-height: 0px;
+	width: 100%;
+	padding: 1px 0px;
+	background-color: #382334;
+}
+.fore {
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    height: 100%;
+    margin-bottom: 1px;
+}
