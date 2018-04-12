@@ -39,11 +39,11 @@
 				</tr>
 				<tr>
 					<td>Server</td>
-					<td></td>
-					<td></td>
-					<td></td>
+					<td>UniFi XG</td>
+					<td>120GB Flash, 2x2TB Hardrives, Intel, Xeon-D1521 Processor, 32GB DDR Memory</td>
+					<td>$1,999</td>
 					<td>1</td>
-					<td></td>
+					<td>$1,999</td>
 				</tr>
 				<tr>
 					<td>Wall Screen</td>
@@ -76,8 +76,8 @@
 					<td>$1,600</td>
 				</tr>
 					<td>Cable</td>
-					<td>CAT6</td>
-					<td>Bulk 1,000ft</td>
+					<td>CAT6 Ethernet</td>
+					<td>Solid, 550Mhz, UTP, CMP, Plenum, Pure Bare Copper Wire, 23AWG, 1,000ft</td>
 					<td>$268</td>
 					<td>N/A</td>
 					<td>$268</td>
@@ -85,13 +85,13 @@
 					<td>Camera</td>
 					<td>GWSecurity</td>
 					<td></td>
-					<td>$4,700</td>
+					<td>N/A</td>
 					<td>32</td>
-					<td>$4,700</td>
+					<td>$4,699</td>
 				</tr>
 				<tr>
 					<td colspan="5">Total:</td>
-					<td>$109,926</td>
+					<td>$111,925</td>
 				</tr>
 			</table>
 		</div>

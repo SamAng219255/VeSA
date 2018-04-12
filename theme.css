@@ -23,14 +23,14 @@ body {
 	z-index: -1;
 	background-image: url("./img/Veil_Nebula.jpg");
 	background-size: 100% auto;
-    -webkit-transform: translateZ(-1px);
-    transform: translateZ(-1px);
-    position: absolute;
-    top: 120%;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    transform: translateZ(-1px) scale(2);
+	-webkit-transform: translateZ(-1px);
+	transform: translateZ(-1px);
+	position: absolute;
+	top: 120%;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	transform: translateZ(-1px) scale(2);
 }
 .txtblock {
 	width: 100%;
@@ -82,7 +82,7 @@ body {
 }
 #bid {
 	max-height: 80%;
-	max-width: 100%;
+	max-width: 80%;
 }
 table, th, td {
 	border: 1px solid black;
