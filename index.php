@@ -94,7 +94,7 @@
 					<td>$111,925</td>
 				</tr>
 			</table></div>
-			<p><a href="https://docs.google.com/spreadsheets/d/1FTkC5EXqvTnDjH0DI5GJVWsAFYeWWdLZbHmL3rBKKkA/edit?usp=sharing">Google Sheet</a></p>
+			<p><a href="https://docs.google.com/spreadsheets/d/1FTkC5EXqvTnDjH0DI5GJVWsAFYeWWdLZbHmL3rBKKkA/edit?usp=sharing" target="_blank">Google Sheet</a></p>
 		</div>
 		<div class="txtblock">
 			<h3>Contact Us</h3>
