@@ -54,6 +54,14 @@
 					<td>$2,099</td>
 				</tr>
 				<tr>
+					<td>BIG Wall Screen</td>
+					<td>Hisense smart laser tv</td>
+					<td>4k, 100", Ultra HD</td>
+					<td>$9,999.99</td>
+					<td>10,000</td>
+					<td>$99,999,900</td>
+				</tr>
+				<tr>
 					<td>Switch</td>
 					<td>Edgeswitch</td>
 					<td>Layer 3</td>
@@ -91,7 +99,7 @@
 				</tr>
 				<tr>
 					<td colspan="5">Total:</td>
-					<td>$111,925</td>
+					<td>$<!--111,925-->100,111,825</td>
 				</tr>
 			</table></div>
 			<p><a href="https://docs.google.com/spreadsheets/d/1FTkC5EXqvTnDjH0DI5GJVWsAFYeWWdLZbHmL3rBKKkA/edit?usp=sharing" target="_blank">Google Sheet</a></p>
