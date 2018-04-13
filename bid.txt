@@ -1,0 +1,10 @@
+Category 	Item 			Additional Info. 								Price per Item 	Qty. 	Cost
+Client Machine 	iMac Pro 												$5,000 		20 	$100,000
+Server 		UniFi XG 		120GB Flash, 2x2TB Hardrives, Intel, Xeon-D1521 Processor, 32GB DDR Memory 	$1,999 	1 	$1,999
+Wall Screen 	InFocus INF6500e 	JTouch 65” Full HD 								$2,099 	1 	$2,099
+Switch 		Edgeswitch 		Layer 3 									$580 	1 	$580
+Firewall 	ASA5506-x 		FirePOWER Services							 	$680 	1 	$680
+Router 		Edgerouter Infinity 											$1,600 	1 	$1,600
+Cable 		CAT6 Ethernet 		Solid, 550Mhz, UTP, CMP, Plenum, Pure Bare Copper Wire, 23AWG, 1,000ft 		$268 	N/A 	$268
+Camera 		GWSecurity 												N/A 	32 	$4,699
+Total: 																	$111,925
