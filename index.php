@@ -20,7 +20,7 @@
 		</div>
 		<div class="txtblock">
 			<h3>Computer Bid</h3>
-			<table id="bid">
+			<div id="bidcontainer"><table id="bid">
 				<tr>
 					<th>Category</th>
 					<th>Item</th>
@@ -93,7 +93,8 @@
 					<td colspan="5">Total:</td>
 					<td>$111,925</td>
 				</tr>
-			</table>
+			</table></div>
+			<p><a href="https://docs.google.com/spreadsheets/d/1FTkC5EXqvTnDjH0DI5GJVWsAFYeWWdLZbHmL3rBKKkA/edit?usp=sharing">Google Sheet</a></p>
 		</div>
 		<div class="txtblock">
 			<h3>Contact Us</h3>
@@ -106,6 +107,8 @@
 				<dd>Sol, Venus, Orbit, (0km, 0km, 39455.435km)</dd>
 				<dt>Hours</dt>
 				<dd>Reply: 2-22 LT, Visit: 6-18 LT</dd>
+				<dt>Github</dt>
+				<dd><a href="https://github.com/SamAng219255/VeSA" target="_blank">https://github.com/SamAng219255/VeSA</a></dd>
 			</dl>
 			<img src="./img/VeSA.png" style="position:absolute; top:20px; right:20px;">
 		</div>

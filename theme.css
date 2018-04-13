@@ -38,7 +38,6 @@ body {
 	padding: 1px 0px;
 	background-color: #382334;
 	min-height: 100%;
-	max-height: 100%;
 	position: relative;
 }
 #topbar h1 {
@@ -81,13 +80,12 @@ body {
 	margin-right: auto;
 }
 #bid {
-	max-height: 80%;
-	max-width: 80%;
+	max-height: 100%;
+	max-width: 100%;
 }
 table, th, td {
 	border: 1px solid black;
 	border-collapse: collapse;
-	margin: auto;
 	font-size: 1.5em;
 }
 th, td:nth-child(1) {
@@ -98,4 +96,16 @@ tr:nth-child(even) {
 }
 tr:nth-child(odd) {
 	background-color: #382334;
+}
+a {
+	color: #844679;
+}
+a:visited {
+	color: #386b69;
+}
+#bidcontainer {
+	max-height: 80%;
+	max-width: 80%;
+	overflow: auto;
+	margin: auto;
 }
